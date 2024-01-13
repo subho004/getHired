@@ -7,8 +7,7 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Video Demo](#video)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+6. 🔗 [Screenshots](#image)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -103,6 +102,14 @@ You can also publish the apk.
 ## <a name="video"> 🎥 Video Demo</a>
 
 https://github.com/subho004/getHired/assets/91646273/c9e48333-37a1-4452-a0a4-135aa7a46c2a
+
+## <a name="image">📱 Screenshots</a>
+
+![Landscape images](https://github.com/subho004/getHired/assets/91646273/12990981-d6ed-4625-b3a8-b70fb809a8e6)
+![Landscape images (1)](https://github.com/subho004/getHired/assets/91646273/243ebabb-e842-4487-a7cd-ca05819720e2)
+![Landscape images (3)](https://github.com/subho004/getHired/assets/91646273/eb584655-752a-41bc-9e42-45306b05b8a1)
+![Landscape images (4)](https://github.com/subho004/getHired/assets/91646273/9966c961-d64c-473d-9f62-0f362155b4a8)
+
 
 ## <a name="contribute">💁🏽 Contributing</a>
 
